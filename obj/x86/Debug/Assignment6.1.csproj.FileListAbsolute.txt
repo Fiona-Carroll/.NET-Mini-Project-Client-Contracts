@@ -1,0 +1,17 @@
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/bin/Debug/Assignment6.1.exe
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/bin/Debug/Assignment6.1.pdb
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/obj/x86/Debug/Assignment6.1.csprojAssemblyReference.cache
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/obj/x86/Debug/Assignment6.1.csproj.CoreCompileInputs.cache
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/obj/x86/Debug/Assignment6.1.exe
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/obj/x86/Debug/Assignment6.1.pdb
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/bin/Debug/MySql.Data.dll
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/bin/Debug/Google.Protobuf.dll
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/bin/Debug/MySql.Data.xml
+/Users/fiona/Projects/Assignment6.1/Assignment6.1/obj/x86/Debug/Assignment6.1.csproj.CopyComplete
+/Users/fiona/Desktop/Assignment6.1/bin/Debug/Assignment6.1.exe
+/Users/fiona/Desktop/Assignment6.1/bin/Debug/Assignment6.1.pdb
+/Users/fiona/Desktop/Assignment6.1/obj/x86/Debug/Assignment6.1.csproj.CoreCompileInputs.cache
+/Users/fiona/Desktop/Assignment6.1/obj/x86/Debug/Assignment6.1.csproj.CopyComplete
+/Users/fiona/Desktop/Assignment6.1/obj/x86/Debug/Assignment6.1.exe
+/Users/fiona/Desktop/Assignment6.1/obj/x86/Debug/Assignment6.1.pdb
+/Users/fiona/Desktop/Assignment6.1/obj/x86/Debug/Assignment6.1.csprojAssemblyReference.cache
